@@ -1,0 +1,29 @@
+p:hover {
+    color:red;
+    font-size: 30px
+}
+
+.standout{
+    color:orange
+
+}
+
+.image1{
+    border-radius: 50%;
+}
+
+.image2{
+    border-radius: 15%;
+}
+
+.image3{
+    opacity:0.5
+}
+
+.image4:hover{
+    filter:grayscale(70%)
+}
+
+.image5{
+    filter:blur(8px)
+}
